@@ -5,5 +5,5 @@ Bir kaç sectiondan oluşan basit bir karşılama sayfası yaptım.
 * Css
 ### Açıklamalar
 * Semantik etiketleri kullanarak daha standart kullanımları öğrenmeye çalıştım
-### gif
+### Screen gif
 ![](https://github.com/yesilyurtgh/travel-landing-page/blob/master/travel-landing.gif)
