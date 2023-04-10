@@ -1,8 +1,8 @@
 # travel-landing-page
 Bir kaç sectiondan oluşan basit bir karşılama sayfası yaptım.
 ### Kullanılan Teknolojiler
-*Html <br>
-*Css
+* Html 
+* Css
 ### Açıklamalar
 * Semantik etiketleri kullanarak daha standart kullanımları öğrenmeye çalıştım
 gif
